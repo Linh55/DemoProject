@@ -1,0 +1,14 @@
+main{
+    width: 90%;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 30px;
+}
+
+p{
+    font-size: larger;
+
+}
